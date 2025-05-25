@@ -29,7 +29,6 @@ Con AcceShoes queremos:
 ## 🛠️ ¿Qué ofrece la plataforma?
 
 - ✅ **Publicación y edición de productos**
-- 🔐 **Transacciones seguras**
 - 🧠 **Sugerencias inteligentes basadas en comportamiento**
 - 🗺️ **Puntos de encuentro sugeridos para entregas**
 - 💬 **Sistema de mensajería entre compradores y vendedores**
